@@ -1,0 +1,15 @@
+../Core/Src/solver.c:23:6:initRecentCells	16	static
+../Core/Src/solver.c:30:6:logNewWall	32	static
+../Core/Src/solver.c:52:6:undoRecentWalls	24	static
+../Core/Src/solver.c:90:6:initialization	16	static
+../Core/Src/solver.c:128:6:refresh	16	static
+../Core/Src/solver.c:136:6:queueInit	8	static
+../Core/Src/solver.c:151:6:push	24	static
+../Core/Src/solver.c:160:6:pop	56	static
+../Core/Src/solver.c:179:6:dump	24	static
+../Core/Src/solver.c:185:6:queueDestructor	16	static
+../Core/Src/solver.c:195:8:solver	8	static
+../Core/Src/solver.c:217:6:floodFillCalc	72	static
+../Core/Src/solver.c:266:8:floodFill	24	static
+../Core/Src/solver.c:657:6:resetRobotPos	4	static
+../Core/Src/solver.c:663:7:getOptimalPath	40	static

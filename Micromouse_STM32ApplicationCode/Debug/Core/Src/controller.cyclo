@@ -1,0 +1,5 @@
+../Core/Src/controller.c:27:5:detectButton	3
+../Core/Src/controller.c:39:6:move	5
+../Core/Src/controller.c:73:6:turn	3
+../Core/Src/controller.c:93:6:stupidPath	1
+../Core/Src/controller.c:137:6:adjustment	1

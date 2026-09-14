@@ -1,0 +1,3 @@
+../Core/Src/gyroscope.c:15:6:BNO085_Init	1
+../Core/Src/gyroscope.c:41:6:BNO085_Update	6
+../Core/Src/gyroscope.c:91:7:BNO085_GetAngle	5

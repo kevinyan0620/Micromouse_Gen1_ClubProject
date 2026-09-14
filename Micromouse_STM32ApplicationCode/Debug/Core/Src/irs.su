@@ -1,0 +1,14 @@
+../Core/Src/irs.c:21:10:readIR	24	static
+../Core/Src/irs.c:71:10:readLeftIR	8	static
+../Core/Src/irs.c:76:10:readFrontLeftIR	8	static
+../Core/Src/irs.c:81:10:readFrontRightIR	8	static
+../Core/Src/irs.c:87:10:readRightIR	8	static
+../Core/Src/irs.c:92:10:readLeft45IR	8	static
+../Core/Src/irs.c:97:10:readRight45IR	8	static
+../Core/Src/irs.c:106:10:analogRead	48	static
+../Core/Src/irs.c:180:6:HAL_ADC_ConvCpltCallback	16	static
+../Core/Src/irs.c:186:6:turnOnIR	16	static
+../Core/Src/irs.c:212:6:turnOffIR	16	static
+../Core/Src/irs.c:238:10:isWallLeft	8	static
+../Core/Src/irs.c:245:10:isWallFront	8	static
+../Core/Src/irs.c:252:10:isWallRight	8	static
