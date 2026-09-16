@@ -15,21 +15,21 @@ We are actively iterating on this design to compete again in the upcoming AAMC!
 
 ## Repository Structure
 
-* /Micromouse_STM32ApplicationCode: Contains the embedded C firmware and project files configured for the STM32 environment.
+* `/Micromouse_STM32ApplicationCode`: Contains the embedded C firmware and project files configured for the STM32 environment.
 
-* /The Mouse: The master KiCad project directory. Includes the full system schematics (wiring) and the 2-layer PCB layout files.
+* `/The Mouse`: The master KiCad project directory. Includes the full system schematics (wiring) and the 2-layer PCB layout files.
 
-* /Micromouse_Parts: Custom KiCad footprint and symbol libraries created for this project. These can be directly imported into KiCad for viewing or reuse.
+* `/Micromouse_Parts`: Custom KiCad footprint and symbol libraries created for this project. These can be directly imported into KiCad for viewing or reuse.
 
-* /Pictures: Photographic documentation of the hardware assembly, revisions, and competition runs.
+* `/Pictures`: Photographic documentation of the hardware assembly, revisions, and competition runs.
 
-* Final Pinout.png: A comprehensive STM32 pin mapping reference diagram required to understand the hardware-firmware interface.
+* `Final Pinout.png`: A comprehensive STM32 pin mapping reference diagram required to understand the hardware-firmware interface.
 
-* Micromouse_BillOfMaterials_AssemblyVersion.xlsx: A detailed assembly BOM mapped by reference designator (e.g., R10) and subsystem, used for manufacturing guidance and population.
+* `Micromouse_BillOfMaterials_AssemblyVersion.xlsx`: A detailed assembly BOM mapped by reference designator (e.g., R10) and subsystem, used for manufacturing guidance and population.
 
-* Micromouse_BillOfMaterials_SubmitVersion.xlsx: A consolidated purchasing BOM with grouped components and quantities, optimized for vendor procurement (e.g., Digi-Key).
+* `Micromouse_BillOfMaterials_SubmitVersion.xlsx`: A consolidated purchasing BOM with grouped components and quantities, optimized for vendor procurement (e.g., Digi-Key).
 
-* Test_Run_With_Small_Maze.MOV: Video demonstration of the maze-solving algorithm in a scaled-down test environment prior to the competition.
+* `Test_Run_With_Small_Maze.MOV`: Video demonstration of the maze-solving algorithm in a scaled-down test environment prior to the competition.
 
 ## Hardware Architecture
 
